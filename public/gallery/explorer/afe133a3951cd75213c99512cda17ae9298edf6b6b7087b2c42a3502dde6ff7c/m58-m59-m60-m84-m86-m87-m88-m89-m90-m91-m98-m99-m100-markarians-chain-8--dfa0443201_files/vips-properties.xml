@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="1970-01-01T00:00:00Z" version="8.15.3">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">14852</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">16786</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">4</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">24.579999999999998</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">24.579999999999998</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">pngload</value>
+    </property>
+    <property>
+      <name>png-comment-0-Software</name>
+      <value type="VipsRefString">Matplotlib version3.10.9, https://matplotlib.org/</value>
+    </property>
+    <property>
+      <name>bits-per-sample</name>
+      <value type="gint">8</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>
